@@ -8,3 +8,5 @@ library(tidyverse)
 
 mutate()
 rename()
+join()
+select()
