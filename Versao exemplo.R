@@ -5,3 +5,6 @@
 #texto
 
 library(tidyverse)
+
+mutate()
+rename()
